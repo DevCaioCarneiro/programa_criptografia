@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class CriptografiaSimples {
 
-    // Chave de 16 caracteres (16 bytes)
+    // Chave de 16 caracteres 
     private static final String CHAVE_SECRETA = "chave16byteslong";
 
     public static String criptografar(String mensagem) throws Exception {
